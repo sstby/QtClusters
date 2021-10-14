@@ -12,6 +12,7 @@ typedef struct _tagXY
 class Data
 {
 public:
+    //Hello
     Data();//Конструктор
     ~Data();//Деструктор
     void Coordinates(int numberOfLines);//Функция для создание массива точек с указанным количеством точек
