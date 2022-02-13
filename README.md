@@ -1,2 +1,2 @@
 # QtClusters
-Программа для кластеризации точек координат по методам простейшего расположения центров, максиминного расстояния и k-среднегрупповых коэффициентов
+Clustering coordinate points using the methods of the simplest location of centers, maximum distance and k-group average coefficients.
